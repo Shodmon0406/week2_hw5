@@ -14,11 +14,11 @@ for (int i = 1; i <= 2; i++)
     employee.BirthDate = new DateTime(2023, 06, 23);
     System.Console.Write("Enter your salary: ");
     employee.Salary = Convert.ToDecimal(Console.ReadLine());
-    employee.Department = new Department()
-    {
-        Name = "IT",
-        Description = "Web"
-    };
+    employee.Department = new Department();
+    System.Console.WriteLine("Enter department name: ");
+    employee.Department.Name = Console.ReadLine();
+    System.Console.WriteLine("Enter description: ");
+    employee.Department.Description = Console.ReadLine();
     employeeService.AddEmployees(employee);
 }
 System.Console.WriteLine("-----------------------------------------------------------------");
