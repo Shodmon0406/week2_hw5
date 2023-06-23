@@ -1,0 +1,12 @@
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\cw\cw3\Domian\bin\Debug\net7.0\Domian.deps.json
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\cw\cw3\Domian\bin\Debug\net7.0\Domian.dll
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\cw\cw3\Domian\bin\Debug\net7.0\Domian.pdb
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\cw\cw3\Domian\obj\Debug\net7.0\Domian.csproj.AssemblyReference.cache
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\cw\cw3\Domian\obj\Debug\net7.0\Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\cw\cw3\Domian\obj\Debug\net7.0\Domian.AssemblyInfoInputs.cache
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\cw\cw3\Domian\obj\Debug\net7.0\Domian.AssemblyInfo.cs
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\cw\cw3\Domian\obj\Debug\net7.0\Domian.csproj.CoreCompileInputs.cache
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\cw\cw3\Domian\obj\Debug\net7.0\Domian.dll
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\cw\cw3\Domian\obj\Debug\net7.0\refint\Domian.dll
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\cw\cw3\Domian\obj\Debug\net7.0\Domian.pdb
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week2\cw\cw3\Domian\obj\Debug\net7.0\ref\Domian.dll
