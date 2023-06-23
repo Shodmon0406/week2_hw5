@@ -30,7 +30,7 @@ foreach (var employee in employeeService.GetEmployees())
     System.Console.WriteLine(employee.FirstName + " " + employee.LastName);
     System.Console.Write("Birthdate: ");
     System.Console.WriteLine(employee.BirthDate.ToShortDateString());
-    System.Console.Write("Salary: ");
+    System.Console.Write("Salary: $");
     System.Console.WriteLine(employee.Salary);
     System.Console.Write("Departmet: ");
     System.Console.WriteLine(employee.Department.Name + " " + employee.Department.Description);
